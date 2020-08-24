@@ -1,0 +1,15 @@
+NAME OF THE GAME : TUBERS CLASH 
+
+STORY AND THE GOAL: You want to become the most popular youtuber with maximum subscribers.
+ 
+RULES OF THE GAME: 1. kill the enemies
+                   2. don't get killed 
+PC: player
+
+NON PC: Famous youtubers
+
+FEEDBACK: death, level competion,killed a enemy
+
+ADAPTIVITY: increase the level diffcult.
+
+SKILL: Shooting,dodging,decisions.
